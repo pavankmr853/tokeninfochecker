@@ -1,1 +1,2 @@
 # tokeninfochecker
+password key
