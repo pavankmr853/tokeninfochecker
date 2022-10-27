@@ -16,7 +16,7 @@ lru-dict==1.1.6
 parsimonious==0.8.1
 pycryptodome==3.8.1
 pypiwin32==223
-pywin32==224
+pywin32==301
 requests==2.21.0
 rlp==1.1.0
 six==1.12.0
